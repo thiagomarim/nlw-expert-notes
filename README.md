@@ -1,3 +1,12 @@
+# Expert Notes
+
+Olá 👋🏻, esse é um projeto realizado durante o projeto da trilha de ReactJs que eu realizei durante o evento NLW Expert da [Rocketseat](https://www.rocketseat.com.br/), ele basicamente é um website de notas, nele você pode adicionar uma nota escrevendo manualmente ou utilizando a gravação de voz do proprio navegador, contendo a funcionadade de adicionar nota, apagar e pesquisar.
+Você pode acessar o site em [Expert Notes](https://nlw-expert-notes-two.vercel.app/).
+
+<br>
+
+![Thumbnail](https://github.com/thiagomarim/nlw-expert-notes/assets/137715251/7219e14e-a5ad-451b-acf5-0ad49508df8e)
+
 <br>
 
 ## 🧪 Tecnologias
