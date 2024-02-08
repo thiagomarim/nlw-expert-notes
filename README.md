@@ -1,6 +1,6 @@
 # Expert Notes
 
-Olá 👋🏻, esse é um projeto realizado durante o projeto da trilha de ReactJs que eu realizei durante o evento NLW Expert da [Rocketseat](https://www.rocketseat.com.br/), ele basicamente é um aplicativo de notas, nele você pode adicionar uma nota escrevendo manualmente ou utilizando a gravação de voz do próprio navegador, contendo a funcionadade de adicionar nota, apagar e pesquisar.
+Olá 👋🏻, esse é um projeto realizado durante o projeto da trilha de ReactJs que eu realizei durante o evento NLW Expert da [Rocketseat](https://www.rocketseat.com.br/), ele basicamente é um aplicativo de notas, nele você pode adicionar uma nota escrevendo manualmente ou utilizando a gravação de voz do próprio navegador, contendo a funcionalidade  de adicionar nota, apagar e pesquisar.
 Você pode acessar o site em [Expert Notes](https://nlw-expert-notes-two.vercel.app/).
 
 <br>
